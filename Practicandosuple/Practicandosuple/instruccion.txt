@@ -1,0 +1,12 @@
+para conectar con firebase necesita crear una nueva aplicacion donde se introducca el id de la aplicacion
+
+se debe descargar los archivos de google para la integracion de firebase
+
+se debe ejecutar los comandos en la consola :
+pod init
+open podfile
+pod install
+
+
+posterirormente se debe abrir el nuevo proyecto generado es de color blanco
+
